@@ -1,4 +1,6 @@
-var jsonData = [{"title":"Program manager) at Atlanta","url":"https://www.indeed.com/q-indeed-jobs.html?vjk=c1dfe09a40403dc0","company":"","first_seen_at":"2025-01-20 06:48:45 EST"},{"title":"Project Manager jobs","url":"https://google.com","company":"Assurant","first_seen_at":"2025-01-10 06 06:48:45 EST"}];
+var jsonData = [{"title":"Program manager) at Atlanta","url":"https://www.indeed.com/q-indeed-jobs.html?vjk=c1dfe09a40403dc0","company":"","first_seen_at":"2025-01-20 06:48:45 EST"},{"title":"Project Manager","url":"https://careers.northhighland.com/jobs/","company":"northhighland","first_seen_at":"2025-01-10 06 06:48:45 EST"},
+{"title":"Sr. Project Manager","url":"https://careers.northhighland.com/jobs/","company":"northhighland","first_seen_at":"2025-01-10 06 06:48:45 EST"},
+{"title":"Technical Data Project Manager","url":"https://careers.northhighland.com/jobs/","company":"northhighland","first_seen_at":"2025-01-10 06 06:48:45 EST"},{"title":"Project Manager jobs","url":"https://google.com","company":"Assurant","first_seen_at":"2025-01-10 06 06:48:45 EST"}];
 
 function search() {
   var searchInput = document.getElementById('search-input').value.toLowerCase();
